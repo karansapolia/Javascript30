@@ -6,4 +6,4 @@ Links to each project:
  
  02: https://karansapolia.github.io/Javascript30/02%20-%20CSS%20+%20JS%20Clock/
 
- 03: https://karansapolia.github.io/Javascript30/03%20-%20CDD%20Variables/ 
+ 03: https://karansapolia.github.io/Javascript30/03%20-%20CSS%20Variables/ 
