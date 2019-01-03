@@ -7,3 +7,7 @@ Links to each project:
  02: https://karansapolia.github.io/Javascript30/02%20-%20CSS%20+%20JS%20Clock/
 
  03: https://karansapolia.github.io/Javascript30/03%20-%20CSS%20Variables/ 
+
+ 04: JS scripting task. Nothing much to render. Read the code.
+ 
+ 05: https://karansapolia.github.io/Javascript30/05%20-%20Flex%20Gallery/
