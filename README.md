@@ -11,3 +11,5 @@ Links to each project:
  04: JS scripting task. Nothing much to render. Read the code.
  
  05: https://karansapolia.github.io/Javascript30/05%20-%20Flex%20Gallery/
+
+ 06: https://karansapolia.github.io/Javascript30/06%20-%20Type%20Ahead/
